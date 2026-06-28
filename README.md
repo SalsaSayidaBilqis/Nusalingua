@@ -1,0 +1,2 @@
+# Nusalingua
+Aplikasi Mobile NusaLingua
